@@ -1,0 +1,5 @@
+install.packages(c("slidify","ggplot2","devtools"))
+install.packages("KernSmooth")
+library (KernSmooth)
+getwd()
+getwd()
